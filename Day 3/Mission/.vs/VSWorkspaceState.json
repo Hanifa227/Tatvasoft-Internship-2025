@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission.Api",
+    "\\Mission.Entities",
+    "\\Mission.Entities\\context",
+    "\\Mission.Entities\\Entities",
+    "\\Mission.Entities\\Migrations",
+    "\\Mission.Repositories",
+    "\\Mission.Repositories\\Repositories"
+  ],
+  "SelectedNode": "\\Mission.Api\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
