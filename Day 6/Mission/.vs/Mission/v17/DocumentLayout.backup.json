@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.api\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Migrations\\20250710082652_update-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Migrations\\20250710082652_update-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.services\\services\\missionthemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\missionthemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.services\\iservices\\imissionthemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\imissionthemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.repositories\\repositories\\missionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\missionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.api\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.repositories\\mission.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\mission.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.repositories\\irepositories\\imissionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\imissionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.services\\iservices\\iadminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iadminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.entities\\entities\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.entities\\models\\missionthememodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\missionthememodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.entities\\models\\loginuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\loginuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\asus\\downloads\\update_delete\\mission\\mission.entities\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Program.cs",
+              "RelativeToolTip": "Mission.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:11:44.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T11:55:45.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\context\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\context\\MissionDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\context\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\context\\MissionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:24:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissionThemeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:50:09.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMissionThemeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\IServices\\IMissionThemeService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IMissionThemeService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\IServices\\IMissionThemeService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IMissionThemeService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:58:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Controllers\\MissionThemeController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\MissionThemeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Controllers\\MissionThemeController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\MissionThemeController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:27:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\AdminUserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:08:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:02:57.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionThemeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\Services\\MissionThemeService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\MissionThemeService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\Services\\MissionThemeService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\MissionThemeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:00:20.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250710082652_update-data.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Migrations\\20250710082652_update-data.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250710082652_update-data.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Migrations\\20250710082652_update-data.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250710082652_update-data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:26:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mission.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Mission.Repositories.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+              "RelativeToolTip": "Mission.Repositories\\Mission.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T06:19:04.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMissionThemeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:02:59.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\LoginService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:05:02.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:14:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAdminUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\IServices\\IAdminUserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IAdminUserService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Services\\IServices\\IAdminUserService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IAdminUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:44:34.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Entities\\MissionTheme.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\MissionTheme.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Entities\\MissionTheme.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\MissionTheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:38:21.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:41:29.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAE8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:51:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:42:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MissionThemeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Models\\MissionThemeModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionThemeModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Models\\MissionThemeModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionThemeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:49:53.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginUserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\update_delete\\Mission\\Mission.Entities\\Models\\UserDetails.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:49:58.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
