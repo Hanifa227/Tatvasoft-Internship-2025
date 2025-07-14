@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Summer Internship 2025\\Mission\\Mission.Api\\wwwroot\\Images\\N-tier Architecture.drawio_20250708065951.png",
+      "PackagePath": "staticwebassets\\Images\\N-tier Architecture.drawio_20250708065951.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mission.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Mission.Api.props",
+      "PackagePath": "build\\Mission.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mission.Api.props",
+      "PackagePath": "buildMultiTargeting\\Mission.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mission.Api.props",
+      "PackagePath": "buildTransitive\\Mission.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
